@@ -11,6 +11,7 @@ struct ContentView: View {
     var body: some View {
         ZStack {
             Image("background")
+                .ignoresSafeArea()
                 
             VStack{
                 Spacer()
@@ -36,8 +37,8 @@ struct ContentView: View {
                         Spacer()
                     }
                     .foregroundColor(/*@START_MENU_TOKEN@*/.white/*@END_MENU_TOKEN@*/)
-                    .padding(.bottom)
-                    .font(.title2)
+                    .padding(.bottom, 10.0)
+                    .font(.headline)
                     
                     HStack{
                         Spacer()
