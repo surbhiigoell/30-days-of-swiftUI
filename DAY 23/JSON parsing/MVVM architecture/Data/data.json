@@ -1,0 +1,13 @@
+    [{
+        "name": "sushi",
+        "cuisine": "japanese"
+    },
+    {
+        "name": "pizza",
+        "cuisine": "italian"
+    },
+    {
+        "name": "burger",
+        "cuisine": "american"
+    }
+]
