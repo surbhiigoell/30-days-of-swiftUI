@@ -1,0 +1,17 @@
+[
+    {
+        "name": "margarita",
+        "toppings": ["parmesan", "Cheddar", "mozzerella"],
+        "image": "deluxe"
+    },
+    {
+        "name": "farm house",
+        "toppings": ["mushroom", "tomato", "capsicum"],
+        "image": "hawaiian"
+    },
+    {
+        "name": "basil pesto",
+        "toppings": ["cherry tomato", "basil", "mozzerella"],
+        "image": "meatlovers"
+    }
+]
