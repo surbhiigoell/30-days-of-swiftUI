@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7DAEA4F8-A8EA-48CA-8590-C44290564750"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D59F9B80-3ABC-4CA5-9EF3-9735BEB0479D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "foreach loop and scrollview/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "D59F9B80-3ABC-4CA5-9EF3-9735BEB0479D - 2baf6c148101b428"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Swift.String&gt;, Swift.String, SwiftUI.Text&gt; in foreach_loop_and_scrollview.ContentView.body.getter : some"
+                  moduleName = "foreach loop and scrollview"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/surbhigoel/iOS/DAY%2025/foreach%20loop%20and%20scrollview/foreach%20loop%20and%20scrollview/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "D59F9B80-3ABC-4CA5-9EF3-9735BEB0479D - c11c29f1e01b18b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String) -&gt; SwiftUI.Text in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Swift.String&gt;, Swift.String, SwiftUI.Text&gt; in foreach_loop_and_scrollview.ContentView.body.getter : some"
+                  moduleName = "foreach loop and scrollview"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/surbhigoel/iOS/DAY%2025/foreach%20loop%20and%20scrollview/foreach%20loop%20and%20scrollview/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "D59F9B80-3ABC-4CA5-9EF3-9735BEB0479D - 2baf6c148101b428"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Swift.String&gt;, Swift.String, SwiftUI.Text&gt; in foreach_loop_and_scrollview.ContentView.body.getter : some"
+                  moduleName = "foreach loop and scrollview"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/surbhigoel/iOS/DAY%2025/foreach%20loop%20and%20scrollview/foreach%20loop%20and%20scrollview/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "132">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
